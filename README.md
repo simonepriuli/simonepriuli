@@ -15,11 +15,3 @@ Contact me ✉️
 ```bash
   hello@priuli.co
 ```
-
-## Socials
-
-[Instagram](https://instagram.com/simonepriuli)
-
-[Linkedin](https://it.linkedin.com/in/simonepriuli)
-
-
