@@ -1,6 +1,5 @@
 
-# Hi, I'm Simone! 👋
-### I'm a fullstack web developer 🧑🏻‍💻
+# Hi, I'm Simone! Fullstack web dev🧑🏻‍💻
 ## Stack
 ```javascript
 const frontend = ['React', 'NextJS', 'Tailwind', 'Axios', 'Svelte', 'Material UI'];
