@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**simonepriuli/simonepriuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Simone! 👋
+### I'm a fullstack web developer 🧑🏻‍💻
+## Stack
+```javascript
+const frontend = ['React', 'NextJS', 'Tailwind', 'Axios', 'Svelte', 'Material UI'];
+const backend = ['Node', 'Express', 'Flask', 'Mongoose', 'Auth'];
+const languages = ['JavaScript', 'TypeScript', 'Python', 'Html', 'CSS'];
+const clouds = ['AWS', 'DigitalOcean', 'Vercel', 'Heroku'];
+const databases = ['MongoDB', 'Redis', 'mySql'];
+```
 
-Here are some ideas to get you started:
+Contact me ✉️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+  hello@priuli.co
+```
+
+## Socials
+
+[Instagram](https://instagram.com/simonepriuli)
+
+[Linkedin](https://it.linkedin.com/in/simonepriuli)
+
+
