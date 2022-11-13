@@ -8,9 +8,3 @@ const languages = ['JavaScript', 'TypeScript', 'Python', 'Html', 'CSS'];
 const clouds = ['AWS', 'DigitalOcean', 'Vercel', 'Heroku'];
 const databases = ['MongoDB', 'Redis', 'mySql'];
 ```
-
-Contact me ✉️
-
-```bash
-  hello@priuli.co
-```
