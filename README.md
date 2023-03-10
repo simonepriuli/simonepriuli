@@ -1,5 +1,5 @@
 
-# Hi, I'm Simone! Fullstack web dev🧑🏻‍💻
+# Hi i'm Simone, Fullstack web dev💻
 ## Stack
 ```javascript
 const frontend = ['React', 'React native', 'Svelte', 'NextJS', 'SvelteKit', 'Expo', 'Tailwind'];
